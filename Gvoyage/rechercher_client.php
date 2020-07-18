@@ -35,7 +35,7 @@
             <!--banner-->
             <div class="block">
                <div class="banner">
-                  <img src="src/img/avion.jpg" alt="Un ordinateur" class="banner-img">
+                  <img src="avion.jpg" alt="Un ordinateur" class="banner-img">
                   <div class="banner-content">
                      <h1 class="title is-1" style="color:black">Agence de voyage BENINVOL</h1>
                       <?php echo "<br>" ?><?php echo "<br>" ?>

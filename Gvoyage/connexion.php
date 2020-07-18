@@ -1,4 +1,10 @@
- 
+
+<?php
+define('USER',"root");
+define('PASSWD',"P@ssw0rd");
+define('SERVER',"localhost");
+define('BASE',"boarding");
+?> 
  <?php
  
  
